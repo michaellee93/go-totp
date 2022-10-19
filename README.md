@@ -1,5 +1,5 @@
 # go-totp
-simple library to generate/check time-based one time pins (TOTP). expects keys as base32 strings.
+simple library to generate/check time-based one time pins (TOTP). expects secrets as base32 strings.
 
 ## Usage
 checking a totp
